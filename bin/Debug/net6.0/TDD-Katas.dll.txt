@@ -1,1 +1,2 @@
-TDD_Katas.Tests.StringCalculator.Test
+TDD_Katas.Tests.StringCalculatorRulesTests.when_given_then
+TDD_Katas.Tests.StringCalculatorTests.when_given_then

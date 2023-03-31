@@ -3,12 +3,10 @@ using NUnit.Framework;
 namespace TDD_Katas.Tests
 {
     [TestFixture]
-    public class StringCalculator
+    public class StringCalculatorRulesTests
     {
         [Test]
-        public void Test() {
-
-            throw new Exception("ERROR 3");
+        public void when_given_then() {
         }
     }
 }
