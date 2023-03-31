@@ -1,0 +1,5 @@
+{
+    "testOnSave.enabled": true,
+    "dotnetCoreExplorer.searchpatterns": "**/bin/**/*Katas*.dll",
+    "testOnSave.testCommand": "dotnet test"
+}
